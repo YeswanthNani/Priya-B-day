@@ -65,7 +65,7 @@ const Hero = ({ onJourneyStart, onMusicToggle }) => {
   const canvasRef = useRef(null);
   const animRef = useRef(null);
   const mouseRef = useRef({ x:0.5, y:0.5 });
-  const fullText = 'Advance Happiest Birthday, Priya 🩵🌏🦋🫂';
+  const fullText = 'Happiest Birthday, PriyaDarshini 🩵🌏🦋🫂';
 
  
   useEffect(() => {
