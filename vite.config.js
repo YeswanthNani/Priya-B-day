@@ -2,8 +2,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
-// https://vite.dev/config/
 export default defineConfig({
-    base: '/Priya-Bday/',
-  plugins: [react() , tailwindcss()],
+  base: '/Priya-B-day/',
+  plugins: [react(), tailwindcss()],
 })
